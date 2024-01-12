@@ -1,0 +1,22 @@
+ion-card-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    ion-label{
+        text-align: justify;
+        padding: 20px;
+    }
+   
+}
+
+img{
+    border-radius: 50%; 
+    width: 300px; /* Ajusta el ancho según sea necesario */
+        height: 300px; /* Ajusta la altura según sea necesario */
+}   
+
+.nombre{
+    color: black;
+    font-size: 3rem;
+}
+
